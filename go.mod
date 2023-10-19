@@ -1,4 +1,4 @@
-module github.com.DaffaAudyaPramana/GCP
+module github.com/daffaaudyapramana/gcp
 
 go 1.21.3
 
